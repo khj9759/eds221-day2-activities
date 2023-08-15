@@ -65,7 +65,7 @@ mc_salamanders
 salamander_size <- ggplot(data = mc_salamanders, aes(x = length1, y= weight)) +
   geom_point(aes(size = 0.5, color = "yellow"))
 
-ggsave("salamander_size.png")
+ggsave(here::here("figs","salamander_size.png"))
 ```
 
 #### **Make a cutthroat plot**
