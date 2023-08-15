@@ -3,9 +3,9 @@
     "path": "~/Documents/UCSB/Summer23/MEDS_EDS221/Day2/eds221-day2-session1/code/practice.qmd",
     "project_path": null,
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2793588503",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1692136823406.0,
     "source_on_save": false,
     "relative_order": 2,
@@ -19,14 +19,14 @@
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "2037:1660.5"
+        "rmdVisualModeLocation": "1486:1660.5"
     },
     "folds": "",
-    "lastKnownWriteTime": 1692140469,
+    "lastKnownWriteTime": 1692141552,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1692141486753,
+    "last_content_update": 1692141552083,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -1,5 +1,0 @@
-"0","salamander_size <- ggplot(data = mc_salamanders, aes(x = length1, y= weight)) +"
-"0","  geom_point(aes(size = 0.5, color = ""yellow""))"
-"0",""
-"0","ggsave(""salamander_size.jpg"")"
-"2","[38;5;232mSaving 7 x 7 in image[39m"
